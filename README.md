@@ -106,7 +106,7 @@ ReHLDS Insight includes the following pre-installed key components (compiled wit
 | [**ReHLDS**](https://github.com/rehlds/rehlds)            | 3.14.0.857    |
 | [**ReGameDLL**](https://github.com/rehlds/ReGameDLL_CS)   | 5.28.0.756    |
 | [**Metamod-R**](https://github.com/rehlds/Metamod-R)      | 1.3.0.149     |
-| [**ReUnion**](https://github.com/rehlds/reunion)          | 0.2.0.27      |
+| [**ReUnion**](https://github.com/rehlds/reunion)          | 0.2.0.34      |
 | [**ReSemiclip**](https://github.com/rehlds/resemiclip)    | 2.4.3         |
-| [**AMX Mod X**](https://github.com/alliedmodders/amxmodx) | 1.10.0.5467   |
-| [**ReAPI**](https://github.com/rehlds/reapi)              | 5.26.0.338    |
+| [**AMX Mod X**](https://github.com/alliedmodders/amxmodx) | 1.10.0.5473   |
+| [**ReAPI**](https://github.com/rehlds/reapi)              | 5.26.0.339    |
